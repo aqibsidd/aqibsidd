@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aqib Siddiqui
-- 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...ML&AI
+- 👀 I’m interested in ...Web Developer
+- 🌱 I’m currently learning ...FullStack Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
