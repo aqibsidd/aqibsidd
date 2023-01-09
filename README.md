@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aqib Siddiqui
-- 👀 I’m interested in ...Web Developer
+- 👀 I’m interested in ...Computer programming
 - 🌱 I’m currently learning ...FullStack Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
